@@ -1,0 +1,38 @@
+{
+  "name": "Viral 12 Jam",
+  "short_name": "viral12jamcom",
+  "start_url": "https://www.viral12jam.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Memviralkan kabar viral yang lagi viral.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-JoDdmmELJgY/XJNE_gtpp7I/AAAAAAAAJQI/DTIg2Q6r7D8ORehQfmD3fme0NG8M7RoHgCLcBGAs/s48/Icon%2Bviral12jamcom.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JoDdmmELJgY/XJNE_gtpp7I/AAAAAAAAJQI/DTIg2Q6r7D8ORehQfmD3fme0NG8M7RoHgCLcBGAs/s72/Icon%2Bviral12jamcom.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JoDdmmELJgY/XJNE_gtpp7I/AAAAAAAAJQI/DTIg2Q6r7D8ORehQfmD3fme0NG8M7RoHgCLcBGAs/s96/Icon%2Bviral12jamcom.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JoDdmmELJgY/XJNE_gtpp7I/AAAAAAAAJQI/DTIg2Q6r7D8ORehQfmD3fme0NG8M7RoHgCLcBGAs/s144/Icon%2Bviral12jamcom.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JoDdmmELJgY/XJNE_gtpp7I/AAAAAAAAJQI/DTIg2Q6r7D8ORehQfmD3fme0NG8M7RoHgCLcBGAs/s168/Icon%2Bviral12jamcom.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JoDdmmELJgY/XJNE_gtpp7I/AAAAAAAAJQI/DTIg2Q6r7D8ORehQfmD3fme0NG8M7RoHgCLcBGAs/s192/Icon%2Bviral12jamcom.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JoDdmmELJgY/XJNE_gtpp7I/AAAAAAAAJQI/DTIg2Q6r7D8ORehQfmD3fme0NG8M7RoHgCLcBGAs/s512/Icon%2Bviral12jamcom.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
